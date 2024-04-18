@@ -10,43 +10,43 @@
         },
         {
             "id": 2,
-            "firstName": "Suhaib",
-            "lastName": "Khazaleh",
+            "firstName": "Ahmad",
+            "lastName": "Taisir",
             "age": 20,
             "gender": "male",
-            "image": "https://t3.ftcdn.net/jpg/02/43/12/34/360_F_243123463_zTooub557xEWABDLk0jJklDyLSGl2jrr.jpg"
+            "image": "https://media.istockphoto.com/id/1399565382/photo/young-happy-mixed-race-businessman-standing-with-his-arms-crossed-working-alone-in-an-office.jpg?s=612x612&w=0&k=20&c=buXwOYjA_tjt2O3-kcSKqkTp2lxKWJJ_Ttx2PhYe3VM="
         },
         {
             "id": 3,
-            "firstName": "Suhaib",
-            "lastName": "Khazaleh",
+            "firstName": "Mira",
+            "lastName": "Milhim",
             "age": 20,
-            "gender": "male",
-            "image": "https://t3.ftcdn.net/jpg/02/43/12/34/360_F_243123463_zTooub557xEWABDLk0jJklDyLSGl2jrr.jpg"
+            "gender": "female",
+            "image": "https://img.freepik.com/free-photo/professional-woman-her-office_23-2147636008.jpg?size=626&ext=jpg&ga=GA1.1.728041069.1687077991&semt=ais"
         },
         {
             "id": 4,
-            "firstName": "Suhaib",
-            "lastName": "Khazaleh",
+            "firstName": "Mira",
+            "lastName": "aburahmeh",
             "age": 20,
-            "gender": "male",
-            "image": "https://t3.ftcdn.net/jpg/02/43/12/34/360_F_243123463_zTooub557xEWABDLk0jJklDyLSGl2jrr.jpg"
+            "gender": "female",
+            "image": "https://img.freepik.com/free-photo/business-woman-standing-with-crossed-arms_23-2148073135.jpg?size=626&ext=jpg&ga=GA1.2.728041069.1687077991&semt=ais"
         },
         {
             "id": 5,
-            "firstName": "Suhaib",
-            "lastName": "Khazaleh",
+            "firstName": "Mohanad",
+            "lastName": "emad",
             "age": 20,
             "gender": "male",
-            "image": "https://t3.ftcdn.net/jpg/02/43/12/34/360_F_243123463_zTooub557xEWABDLk0jJklDyLSGl2jrr.jpg"
+            "image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg"
         },
         {
             "id": 6,
-            "firstName": "Suhaib",
-            "lastName": "Khazaleh",
+            "firstName": "Laith",
+            "lastName": "Ayman",
             "age": 20,
             "gender": "male",
-            "image": "https://t3.ftcdn.net/jpg/02/43/12/34/360_F_243123463_zTooub557xEWABDLk0jJklDyLSGl2jrr.jpg"
+            "image": "https://static.vecteezy.com/system/resources/thumbnails/005/346/410/small/close-up-portrait-of-smiling-handsome-young-caucasian-man-face-looking-at-camera-on-isolated-light-gray-studio-background-photo.jpg"
         },
         {
             "id": 7,

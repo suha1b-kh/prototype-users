@@ -22,7 +22,7 @@
             "lastName": "Milhim",
             "age": 20,
             "gender": "female",
-            "image": "https://img.freepik.com/free-photo/professional-woman-her-office_23-2147636008.jpg?size=626&ext=jpg&ga=GA1.1.728041069.1687077991&semt=ais"
+            "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=600"
         },
         {
             "id": 4,
@@ -30,7 +30,7 @@
             "lastName": "aburahmeh",
             "age": 20,
             "gender": "female",
-            "image": "https://img.freepik.com/free-photo/business-woman-standing-with-crossed-arms_23-2148073135.jpg?size=626&ext=jpg&ga=GA1.2.728041069.1687077991&semt=ais"
+            "image": "https://www.shutterstock.com/shutterstock/photos/1865153395/display_1500/stock-photo-portrait-of-young-smiling-woman-looking-at-camera-with-crossed-arms-happy-girl-standing-in-1865153395.jpg"
         },
         {
             "id": 5,
@@ -50,32 +50,32 @@
         },
         {
             "id": 7,
-            "firstName": "Suhaib",
-            "lastName": "Khazaleh",
+            "firstName": "mohamad",
+            "lastName": "Kktyy",
             "age": 20,
             "gender": "male",
             "image": "https://t3.ftcdn.net/jpg/02/43/12/34/360_F_243123463_zTooub557xEWABDLk0jJklDyLSGl2jrr.jpg"
         },
         {
             "id": 8,
-            "firstName": "Suhaib",
-            "lastName": "Khazaleh",
+            "firstName": "ahmad",
+            "lastName": "mahmmoud",
             "age": 20,
             "gender": "male",
             "image": "https://t3.ftcdn.net/jpg/02/43/12/34/360_F_243123463_zTooub557xEWABDLk0jJklDyLSGl2jrr.jpg"
         },
         {
             "id": 9,
-            "firstName": "Suhaib",
-            "lastName": "Khazaleh",
+            "firstName": "abdalrahman",
+            "lastName": "hamdi",
             "age": 20,
             "gender": "male",
             "image": "https://t3.ftcdn.net/jpg/02/43/12/34/360_F_243123463_zTooub557xEWABDLk0jJklDyLSGl2jrr.jpg"
         },
         {
             "id": 10,
-            "firstName": "Suhaib",
-            "lastName": "Khazaleh",
+            "firstName": "abdallah",
+            "lastName": "Khaleh",
             "age": 20,
             "gender": "male",
             "image": "https://t3.ftcdn.net/jpg/02/43/12/34/360_F_243123463_zTooub557xEWABDLk0jJklDyLSGl2jrr.jpg"

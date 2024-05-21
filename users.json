@@ -6,7 +6,11 @@
             "lastName": "Khazaleh",
             "age": 20,
             "gender": "male",
+<<<<<<< HEAD
+            "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+=======
             "image": "https://img.freepik.com/free-photo/portrait-handsome-corporate-man_23-2148336854.jpg?t=st=1715101526~exp=1715105126~hmac=a43d588ae34cda6fb45fc675c34b75797bede892fc1d139de8502b422b690092&w=360"
+>>>>>>> 912f58988fdba6821df116bd367dc5f25bbe2201
         },
         {
             "id": "Front teeth extracted",
